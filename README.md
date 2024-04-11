@@ -12,12 +12,12 @@
 <a href="https://github.com/Singhyash9009/Practice_Interview_Data/issues"><img src="https://img.shields.io/github/issues/Singhyash9009/Practice_Interview_Data" alt="Issues Badge"/></a>
 <a href="https://github.com/Singhyash9009/Practice_Interview_Data/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Singhyash9009/Practice_Interview_Data?color=2b9348"></a>
 <a href="https://github.com/Singhyash9009/Practice_Interview_Data/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Singhyash9009/Practice_Interview_Data?color=2b9348" alt="License Badge"/></a>
-<a href="https://github.com/Singhyash9009/Practice_Interview_Data/blob/master/LICENSE"><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhyash9009&theme=blue-green"/><a/>
+
 <img alt="Practice Repo" src="https://github.com/Singhyash9009/Practice_Interview_Data/blob/main/Practice.jpg"> </img>
 </div>
   
 ---
-
+<a href="https://github.com/Singhyash9009/Practice_Interview_Data/blob/master/LICENSE"><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhyash9009&theme=blue-green"/><a/>
 ### :man_technologist: About This Repo :
  
 - I am learning Data Science.
