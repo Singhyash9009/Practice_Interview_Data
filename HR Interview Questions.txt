@@ -1,0 +1,41 @@
+1)Tell me about yourself?
+"Good morning/afternoon/evening" sir/mam.
+
+My name is Yash Singh
+ 
+I'm From Nagpur and willing to relocate to any city.
+ 
+I have recently completed my ADVANCED PGP IN DATA SCIENCE AND MACHINE LEARNING from NIIT in which I explored data visualization techniques through python,tableau,powerbi,sentiment analysis,tsa and got an opportunity to work on MySQL.
+
+I have a 3 months Internship experience a Bugendaitech Pvt Ltd. as a Data Science Intern.During which I worked on 
+
+Earlier I have completed my graduation in B.E. in 2020.
+
+Also I am quick learner,team player,can adapt fastly to any situation and having good time management skills.
+
+Talking about projects i have done various real world projects.Such as Amazon Sentimental Analysis Project, House Grading Project and Mall Customer Segmentation Project.
+
+My interest is in cricket,listening songs and reading books like Inner Enggineering, Pyschology of Money.
+
+2)Mention 4 strengths of yours.
+• I have strong analytical skills as  i can analyze complex datasets and can derive  
+  actionable insights from it.
+• Having Programming proficiency as I'm skilled in Python and MySQL for efficient data 
+  manipulation and model building.
+• Having strong communication skills helps me conveying technical concepts to non-technical 
+  stakeholders
+• Having Problem-Solving abilities help in tackling challenging problems with innovative 
+  solutions.
+
+3) Mention 2 of your weakness.
+• I trust people easily 
+• Sometimes I doubt myself but I'm working on it.By reading self help books and motivating myself.
+
+4)Why do you want to join our company?
+I'm looking for a platform in Data Science and esteemed company is provinding that platform. I'm eager to contribute my expertise to advance your goals in data science.
+
+5)Why should I hire you?
+I bring the exposure of working on real-life projects like Web Summarisation Tool.I also have strong technical skills and commitment to excellence in data science. I bring expertise in statistical analysis, machine learning, and programming languages like Python and MySQL, along with effective communication and a passion for continuous learning.
+
+6)Where do you see yourself after 25 years?
+In 25 years, I see myself leading groundbreaking research and innovation in data science, mentoring others, and driving positive change in academia, industry, or as a leader in a data-driven organization.
