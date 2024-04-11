@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <br>
 
-<a href="https://github.com/Shubham3023/Practice/stargazers"><img src="https://img.shields.io/github/stars/Shubham3023/Practice" alt="Stars Badge"/></a>
+<a href="https://github.com/Shubham3023/Practice/stargazers"><img src="https://img.shields.io/github/stars" alt="Stars Badge"/></a>
 <a href="https://github.com/Shubham3023/Practice/network/members"><img src="https://img.shields.io/github/forks/Shubham3023/Practice" alt="Forks Badge"/></a>
 <a href="https://github.com/Shubham3023/Practice/pulls"><img src="https://img.shields.io/github/issues-pr/Shubham3023/Practice" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Shubham3023/Practice/issues"><img src="https://img.shields.io/github/issues/Shubham3023/Practice" alt="Issues Badge"/></a>
