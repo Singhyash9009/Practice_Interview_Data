@@ -13,23 +13,23 @@
 <a href="https://github.com/Singhyash9009/Practice_Interview_Data/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Singhyash9009/Practice_Interview_Data?color=2b9348"></a>
 <a href="https://github.com/Singhyash9009/Practice_Interview_Data/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Singhyash9009/Practice_Interview_Data?color=2b9348" alt="License Badge"/></a>
 
-<img alt="Practice Repo" src="https://github.com/Singhyash9009/Practice_Interview_Data/blob/main/Practice.jpg"> </img>
+<img alt="Practice Repo" src="https://github.com/Singhyash9009/Practice_Interview_Data/blob/main/high-angle-view-learn-something-new-today-text-slate-near-laptop.jpg"> </img>
 </div>
-  
 ---
-<a href="https://github.com/Singhyash9009/Practice_Interview_Data/blob/master/LICENSE"><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhyash9009&theme=blue-green"/><a/>
+
 ### :man_technologist: About This Repo :
  
-- I am learning Data Science.
-- I am posting the my practice IPYNB files here for the Community.
+- I am Certified Data Scientist from NIIT.
+- I am posting the my practice IPYNB files and Interview expected questions here for the Community 
 
 ---
 
 ### :hammer_and_wrench: Topics :
 
- - Python: Lambda, Map, Filter, RegEx, etc
+ - Python: Lambda, Funstions, Map, Filter, RegEx, etc
  - Visualization: Matplotlib, Seaborn, Plotly, Cufflinks etc
  - Data Manipulation: Pandas
  - ML: EDA, Automated EDA, etc
+ - Documents and PDF related to Data Science
 
 ---
