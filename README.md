@@ -6,13 +6,13 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <br>
 
-<a href="https://github.com/Shubham3023/Practice/stargazers"><img src="https://img.shields.io/github/stars/Singhyash9009/Practice_Interview_Data" alt="Stars Badge"/></a>
-<a href="https://github.com/Shubham3023/Practice/network/members"><img src="https://img.shields.io/github/forks/Singhyash9009/Practice_Interview_Data" alt="Forks Badge"/></a>
-<a href="https://github.com/Shubham3023/Practice/pulls"><img src="https://img.shields.io/github/issues-pr/Singhyash9009/Practice_Interview_Data" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Shubham3023/Practice/issues"><img src="https://img.shields.io/github/issues/Singhyash9009/Practice_Interview_Data" alt="Issues Badge"/></a>
-<a href="https://github.com/Shubham3023/Practice/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Singhyash9009/Practice_Interview_Data?color=2b9348"></a>
-<a href="https://github.com/Shubham3023/Practice/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Singhyash9009/Practice_Interview_Data?color=2b9348" alt="License Badge"/></a>
-
+<a href="https://github.com/Singhyash9009/Practice_Interview_Data"><img src="https://img.shields.io/github/stars/Singhyash9009/Practice_Interview_Data" alt="Stars Badge"/></a>
+<a href="https://github.com/Singhyash9009/Practice_Interview_Data/network/members"><img src="https://img.shields.io/github/forks/Singhyash9009/Practice_Interview_Data" alt="Forks Badge"/></a>
+<a href="https://github.com/Singhyash9009/Practice_Interview_Data/pulls"><img src="https://img.shields.io/github/issues-pr/Singhyash9009/Practice_Interview_Data" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Singhyash9009/Practice_Interview_Data/issues"><img src="https://img.shields.io/github/issues/Singhyash9009/Practice_Interview_Data" alt="Issues Badge"/></a>
+<a href="https://github.com/Singhyash9009/Practice_Interview_Data/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Singhyash9009/Practice_Interview_Data?color=2b9348"></a>
+<a href="https://github.com/Singhyash9009/Practice_Interview_Data/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Singhyash9009/Practice_Interview_Data?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/Singhyash9009/Practice_Interview_Data/blob/master/LICENSE"><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhyash9009&theme=blue-green"/><a/>
 <img alt="Practice Repo" src="https://github.com/Singhyash9009/Practice_Interview_Data/blob/main/Practice.jpg"> </img>
 </div>
   
