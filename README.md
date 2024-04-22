@@ -24,7 +24,7 @@
 
 ### :hammer_and_wrench: Topics :
 
- - Python: Lambda, Funstions, Map, Filter, RegEx, etc
+ - Python: Lambda, Funstions, Array, Operators, List Comprehensions, Map, Filter, RegEx, etc
  - Visualization: Matplotlib, Seaborn, Plotly, Cufflinks etc
  - Data Manipulation: Pandas
  - ML: EDA, Automated EDA, etc
