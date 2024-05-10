@@ -525,3 +525,7 @@ Question: "𝗪𝗵𝗮𝘁 𝗶𝘀 𝘁𝗵𝗲 𝗱𝗶𝗳𝗳𝗲𝗿𝗲�
 👉 𝗟𝗼𝘀𝘀 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻 is generally used when we are interested in measuring the error between the prediction and the actual with respect to a 𝘀𝗶𝗻𝗴𝗹𝗲 𝗼𝗯𝘀𝗲𝗿𝘃𝗮𝘁𝗶𝗼𝗻. On the other hand, when the error is measured across the entire data set under consideration, we use the term 𝗖𝗼𝘀𝘁 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻.
 
 👉 In other words, 𝗖𝗼𝘀𝘁 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻 𝗮𝗴𝗴𝗿𝗲𝗴𝗮𝘁𝗲𝘀 𝘁𝗵𝗲 𝗹𝗼𝘀𝘀 𝘃𝗮𝗹𝘂𝗲𝘀 𝘁𝗵𝗮𝘁 𝗵𝗮𝘃𝗲 𝗮𝗹𝗿𝗲𝗮𝗱𝘆 𝗯𝗲𝗲𝗻 𝗰𝗮𝗹𝗰𝘂𝗹𝗮𝘁𝗲𝗱 𝗽𝗲𝗿 𝗼𝗯𝘀𝗲𝗿𝘃𝗮𝘁𝗶𝗼𝗻.
+
+Que.Can you explain the differnce between descriptive and inferential statistics?
+Ans. Descriptive statistics ae limited so much that they only allow you to make summations about peopl/objects that you have actually measure.
+On other hand Inferential Statistics is process of collecting,analyzing and interpreting the data gathered from a sample to generate something about population.
